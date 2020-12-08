@@ -14,7 +14,7 @@ const App = () => {
       <meta name='description' content='this is first home page in react app from rohith' />
     </Helmet>
       <header className="App-header">
-       <p>This is Rohith Purella Using Netlify and Buddy.Work for React app to go <b>ONLINE</b> </p>
+       <p> Website is under constuction. Please vist later.</p>
       </header>
     </div>
   );
