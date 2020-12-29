@@ -14,7 +14,7 @@ const App = () => {
       <meta name='description' content='this is first home page in react app from rohith' />
     </Helmet>
       <header className="App-header">
-       <p> Website is under constuction. Please vist later :)</p>
+       <p> Website is under constuction. Please vist later...</p>
       </header>
     </div>
   );
