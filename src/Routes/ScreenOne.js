@@ -10,11 +10,13 @@ const ScreenOne = () => {
       <title>Home Page</title>
       <meta name='description' content='this is first home page in react app from rohith' />
     </Helmet>
+   <header>
     <h1 className={'mainTitle'}>
     CodDevPro
     </h1>
     <div className={'loadingDiv'}> 
     </div>
+   </header> 
     </div>
   )
 }
