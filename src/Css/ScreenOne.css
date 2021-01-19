@@ -14,13 +14,25 @@
   flex-direction: column;
 }
 
+.mainDiv>header{
+  height: 100vh;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .mainTitle{
   font-family: 'Handlee', serif;
   font-size: 48px;
   text-shadow: 4px 4px 4px #aaa;
 }
 
+
 .loadingDiv {
+  display: flex;
+  align-self: auto;
   border: 2px solid #aaa; /* Light grey */
   border-top: 2px solid #000; /* Blue */
   border-radius: 50%;
